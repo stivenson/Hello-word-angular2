@@ -1,0 +1,26 @@
+{
+  "name": "angular2-quickstart",
+  "description": "first angular 2 project",
+  "main": "index.js",
+  "authors": [
+    "Stivenson Rincón Mora"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular2",
+    "helloword",
+    "typescript"
+  ],
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular2-build": "^2.0.0-alpha.34"
+  }
+}
